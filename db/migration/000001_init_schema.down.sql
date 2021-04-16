@@ -1,3 +1,0 @@
-DROP TABLE IF EXISTS pembeli; 
-DROP TABLE IF EXISTS barang;
-DROP TABLE IF EXISTS transaksi;
